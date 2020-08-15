@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ancient Egypt</name>
+	<open>1</open>
+	<description>Archaeological sites from Ancient Egypt.</description>
+	<Camera>
+		<longitude>32.17691586944041</longitude>
+		<latitude>13.25079226320844</latitude>
+		<altitude>2142098.412192884</altitude>
+		<heading>-5.032786131760311</heading>
+		<tilt>16.20966363477589</tilt>
+		<roll>-0.7256784797634978</roll>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</Camera>
+	<Style id="style13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="style8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style41">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/water.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_water">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="style18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style20">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style19">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/water.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/water.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_water">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="style61">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/water.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="style21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_water">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_water</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_water</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style22">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/water.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style60">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/water.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>Nile Delta</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>A <a href="http://en.wikipedia.org/wiki/River_delta" target="_blank">delta</a> forms when a river meets a larger body of water and splits into smaller rivers. Today, the <a href="http://en.wikipedia.org/wiki/Nile_Delta" target="_blank">Nile Delta</a> is home to much of Egypt&#8217;s agriculture and population. The satellite photo below shows lights at night time.</p>
+<img src="http://eck208.com/google-earth/ancient-egypt/Nile_River_Delta_at_Night.jpg">]]></description>
+		<LookAt>
+			<longitude>31.188414</longitude>
+			<latitude>30.83362</latitude>
+			<altitude>0</altitude>
+			<heading>-0.019414</heading>
+			<tilt>0</tilt>
+			<range>259789.375</range>
+		</LookAt>
+		<styleUrl>#style9</styleUrl>
+		<Point>
+			<coordinates>31.188414,30.83362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Pyramids at Giza</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>The famous pyramids were built in Giza during the Old Kingdom. The largest is known as <a href="http://en.wikipedia.org/wiki/Great_Pyramid_of_Giza" target="_blank">The Great Pyramid</a>. It was built by King Khufu and took more than 2 million stone blocks and over 20 years to complete.</p>
+<img src="http://eck208.com/google-earth/ancient-egypt/All_Gizah_Pyramids.jpg">]]></description>
+		<LookAt>
+			<longitude>31.13224476233068</longitude>
+			<latitude>29.97338159698668</latitude>
+			<altitude>0</altitude>
+			<heading>-31.47173787498025</heading>
+			<tilt>58.31546818252684</tilt>
+			<range>1015.383074642569</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#style7</styleUrl>
+		<Point>
+			<coordinates>31.133764,29.973021,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>The Great Sphinx</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>A sphinx is a mythical creature with the body of a lion and the head of a human. Very little is known about the construction of <a href="http://en.wikipedia.org/wiki/Great_Sphinx_of_Giza" target="_blank">Great Sphinx</a>. Some historians believe it was built by King Khafra around 2558–2532 BCE, but other historians believe it is much older.</p>
+<img src="http://eck208.com/google-earth/ancient-egypt/Great_Sphinx_of_Giza.jpg">]]></description>
+		<LookAt>
+			<longitude>31.13823306853005</longitude>
+			<latitude>29.97519095351345</latitude>
+			<altitude>5.100066966289724</altitude>
+			<heading>-72.66495871828286</heading>
+			<tilt>60.02961736288713</tilt>
+			<range>100.7796662556731</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#style5</styleUrl>
+		<Point>
+			<coordinates>31.138084,29.975477,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Cairo (Modern Capital)</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Cairo" target="_blank">Read Wikipedia article</a></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>]]></description>
+		<LookAt>
+			<longitude>31.221401</longitude>
+			<latitude>30.049206</latitude>
+			<altitude>0</altitude>
+			<heading>0.000454</heading>
+			<tilt>0</tilt>
+			<range>5159.979492</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#style12</styleUrl>
+		<Point>
+			<coordinates>31.23957800000001,30.049482,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Memphis</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>Memphis is home to one of the earliest pyramids, the <a href="http://en.wikipedia.org/wiki/Pyramid_of_Djoser" target="_blank">Stepped Pyramid of Djoser</a>. The Step Pyramid had six levels of decreasing size. Later, the Egyptians learned more advanced construction techniques so they could create smooth sides to their pyramids.</p>
+<img src="http://eck208.com/google-earth/ancient-egypt/Saqqara_pyramid.jpg">]]></description>
+		<LookAt>
+			<longitude>31.21712374707674</longitude>
+			<latitude>29.87126943147002</latitude>
+			<altitude>16.92786822901056</altitude>
+			<heading>-123.4652024469988</heading>
+			<tilt>50.66588044837529</tilt>
+			<range>474.6335487954655</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#style13</styleUrl>
+		<Point>
+			<coordinates>31.21552700000001,29.871071,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Karnak</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>The temple complex at <a href="http://en.wikipedia.org/wiki/Karnak" target="_blank">Karnak</a> is one of the most impressive sites from the Middle Kingdom. During this time, the Egyptians made fewer pyramids and they had more variety in the buildings, such as creating columns, <a href="http://en.wikipedia.org/wiki/Obelisks#Egyptian" target="_blank">obelisks</a> and large statues. The walls of the <a href="http://en.wikipedia.org/wiki/White_Chapel" target="_blank">White Chapel at Karnak</a> show very detailed carvings and relief sculptures in the walls.</p>
+<img src="http://eck208.com/google-earth/ancient-egypt/White_Chapel.jpg">]]></description>
+		<LookAt>
+			<longitude>32.65671138303566</longitude>
+			<latitude>25.71869555166264</latitude>
+			<altitude>10.8129342243096</altitude>
+			<heading>78.63909543376255</heading>
+			<tilt>62.70993020929571</tilt>
+			<range>227.3080209396936</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#style3</styleUrl>
+		<Point>
+			<coordinates>32.655704,25.719528,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Dayr al-Bahri</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Dayr_al-Bahri" target="_blank">Dayr al-Bahri</a> has several levels built into the side of a hill. Much of the work on this site was done during the time of the female pharaoh <a href="http://en.wikipedia.org/wiki/Hatshepsut" target="_blank">Hatshepsut</a>. Scenes carved into the walls of this temple shows Hatshepsut&#8217;s many accomplishments, such as trading with the distant country of Punt.</p><img src="http://eck208.com/google-earth/ancient-egypt/Hatshetsup-temple.jpg">]]></description>
+		<LookAt>
+			<longitude>32.608868</longitude>
+			<latitude>25.736439</latitude>
+			<altitude>0</altitude>
+			<heading>-0.824711</heading>
+			<tilt>0</tilt>
+			<range>1336.677734</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#style18</styleUrl>
+		<Point>
+			<coordinates>32.613625,25.735212,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Valley of the Kings</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>One of the problems with the pyramids is that grave robbers frequently stole the riches buried with the pharaohs. During the New Kingdom, the Egyptians began to hide their burial tombs in hills at the <a href="http://en.wikipedia.org/wiki/Valley_of_the_Kings" target="_blank">Valley of the Kings</a>. One of the most famous tombs in this area belonged to <a href="http://en.wikipedia.org/wiki/Tutankhamun" target="_blank">King Tut (Tutankhamun)</a>. <a href="http://en.wikipedia.org/wiki/KV62" target="_blank">Howard Carter discovered Tut&#8217;s tomb in 1922</a> and it was one of the only tombs that was discovered while it still had treasure inside. </p><img src="http://eck208.com/google-earth/ancient-egypt/valley-of-the-kings.jpg">]]></description>
+		<LookAt>
+			<longitude>32.60194</longitude>
+			<latitude>25.739971</latitude>
+			<altitude>0</altitude>
+			<heading>4.209714</heading>
+			<tilt>0</tilt>
+			<range>278.74585</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#style19</styleUrl>
+		<Point>
+			<coordinates>32.601162,25.74052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Thebes</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Thebes,_Egypt" target="_blank">Thebes</a> was the capital of Egypt during the time of the Middle Kingdom. This city was home to the <a href="http://en.wikipedia.org/wiki/Luxor" target="_blank">Luxor Temple</a>, a very large temple complex. Outside the entrance to the temple stood a tall pillar known as an <a href="http://en.wikipedia.org/wiki/Obelisk#Egyptian" target="_blank">obelisk</a>, which inspired the design of the Washington Monument.</p><img src="http://eck208.com/google-earth/ancient-egypt/LuxorTemple.jpg">]]></description>
+		<LookAt>
+			<longitude>32.638763</longitude>
+			<latitude>25.699486</latitude>
+			<altitude>0</altitude>
+			<heading>7e-06</heading>
+			<tilt>0</tilt>
+			<range>485.786774</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#style15</styleUrl>
+		<Point>
+			<coordinates>32.639969,25.700527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kom Ombo</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Kom_Ombo" target="_blank">Read Wikipedia article</a></p></p><p></p></p>]]></description>
+		<LookAt>
+			<longitude>32.928284</longitude>
+			<latitude>24.452066</latitude>
+			<altitude>0</altitude>
+			<heading>-0</heading>
+			<tilt>0</tilt>
+			<range>178.892365</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#style16</styleUrl>
+		<Point>
+			<coordinates>32.928715,24.452467,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Philae</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Philae" target="_blank">Read Wikipedia article</a></p></p></p></p><img src="http://eck208.com/google-earth/ancient-egypt/Philae.jpg">]]></description>
+		<LookAt>
+			<longitude>32.88468746702211</longitude>
+			<latitude>24.02501216648784</latitude>
+			<altitude>10.00008713905504</altitude>
+			<heading>-56.54647735134329</heading>
+			<tilt>84.20155171578723</tilt>
+			<range>41.41199237005592</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#style14</styleUrl>
+		<Point>
+			<coordinates>32.884342,24.026024,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Elephantine Island</name>
+		<description><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Elephantine" target="_blank">Read Wikipedia article</a></p>]]></description>
+		<styleUrl>#style21</styleUrl>
+		<Point>
+			<coordinates>32.888336,24.088783,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Aswan Dam (Modern Site)</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>The <a href="http://en.wikipedia.org/wiki/Aswan_High_Dam" target="_blank">Aswan Dam</a> was built during the 1960s to provide power for Egypt and to control the flooding of the Nile River. The Ancient Egyptians observed the flooding carefully and could use their calendar to predict the flooding. Although the flooding was dangerous, it had the benefit of providing silt, which made the soil fertile.</p>]]></description>
+		<LookAt>
+			<longitude>32.892033</longitude>
+			<latitude>23.973597</latitude>
+			<altitude>0</altitude>
+			<heading>-3.175747</heading>
+			<tilt>0</tilt>
+			<range>8815.942383</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#style17</styleUrl>
+		<Point>
+			<coordinates>32.869678,23.974251,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Nasser</name>
+		<description><![CDATA[Lake Nasser is a human-made <strong>reservoir</strong> that formed when the Aswan High Dam was built in the 1960's. The formation of Lake Nasser buried many historical sites underwater. Some sites, such as Abu Simbel, were moved to higher ground to preserve them.
+
+<a href="https://en.wikipedia.org/wiki/Lake_Nasser">Read more at Wikipedia</a>]]></description>
+		<LookAt>
+			<longitude>32.68957281645601</longitude>
+			<latitude>23.00978471913419</latitude>
+			<altitude>0</altitude>
+			<heading>0.164143619507997</heading>
+			<tilt>17.57545674077709</tilt>
+			<range>550906.5941115461</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>32.78258508919854,23.14458263206914,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abu Simbel</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>The powerful pharaoh <a href="http://en.wikipedia.org/wiki/Ramses_II" target="_blank">Ramses II</a> created the <a href="http://en.wikipedia.org/wiki/Abu_Simbel" target="_blank">colossal statues overlooking the Nile River at Abu Simbel</a>. The statues were near the southern edge of the Egyptian Empire and were made to impress Egypt&#8217;s southern neighbors. During the 1960s, Egypt built the Aswan Dam which would have flooded the statues at Abu Simbel. To save the historic site, the statues were cut into blocks and rebuilt at higher ground.</p><img src="http://eck208.com/google-earth/ancient-egypt/Abu_Simbel.jpg">]]></description>
+		<LookAt>
+			<longitude>31.62548185190836</longitude>
+			<latitude>22.33679715582807</latitude>
+			<altitude>3.740196188206198</altitude>
+			<heading>-74.80786898545263</heading>
+			<tilt>72.57405774946702</tilt>
+			<range>59.79083968284483</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#style8</styleUrl>
+		<Point>
+			<coordinates>31.623816,22.337786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Meroë</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>This city has ruins from the ancient <a href="http://en.wikipedia.org/wiki/Kingdom_of_Kush" target="_blank">Kingdom of Kush</a>, which was Egypt&#8217;s neighbors to the south. The people of Kush created the small pyramids shown in the picture below. This area is near where the White Nile and the Blue Nile merge to form one mighty river.</p><img src="http://eck208.com/google-earth/ancient-egypt/Sudan_Meroe_Pyramids.jpg">]]></description>
+		<LookAt>
+			<longitude>33.74924857688049</longitude>
+			<latitude>16.93825709629609</latitude>
+			<altitude>2.744834035825916</altitude>
+			<heading>-37.80020781596249</heading>
+			<tilt>81.384996763345</tilt>
+			<range>29.35164962684055</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#style11</styleUrl>
+		<Point>
+			<coordinates>33.750626,16.938709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>White Nile</name>
+		<description><![CDATA[The White Nile River is a <strong>tributary</strong> of the Nile River.]]></description>
+		<LookAt>
+			<longitude>32.9810516210871</longitude>
+			<latitude>14.37273566957334</latitude>
+			<altitude>0</altitude>
+			<heading>0.1557425080552924</heading>
+			<tilt>0</tilt>
+			<range>684983.7582722864</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_water</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>32.19303350820652,14.55129950866051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Victoria</name>
+		<description><![CDATA[Lake Victoria is one of the main <strong>sources</strong> of the White Nile River.
+<p><a href="http://en.wikipedia.org/wiki/Lake_Victoria" target="_blank">Read Wikipedia article</a></p>]]></description>
+		<styleUrl>#style6</styleUrl>
+		<Point>
+			<coordinates>32.492065,-1.235866,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Blue Nile</name>
+		<description><![CDATA[The Blue Nile River is a <strong>tributary</strong> of the Nile River.]]></description>
+		<LookAt>
+			<longitude>33.60837350512426</longitude>
+			<latitude>14.20348482369086</latitude>
+			<altitude>0</altitude>
+			<heading>0.4644180330991183</heading>
+			<tilt>0</tilt>
+			<range>14320.54989333772</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_water</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>33.60865967281374,14.2153520438432,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lake Tana</name>
+		<description><![CDATA[Lake Tana is the <strong>source</strong> of the Blue Nile River.
+<p><a href="http://en.wikipedia.org/wiki/Lake_Tana" target="_blank">Read Wikipedia article</a></p>]]></description>
+		<LookAt>
+			<longitude>37.2406813876318</longitude>
+			<latitude>11.90947491449858</latitude>
+			<altitude>0</altitude>
+			<heading>-0.004653507846616743</heading>
+			<tilt>0</tilt>
+			<range>137458.7889724619</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#style40</styleUrl>
+		<Point>
+			<coordinates>37.265625,11.974845,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Suez Canal</name>
+		<Snippet maxLines="2">Read Wikipedia article</Snippet>
+		<description><![CDATA[<p>The <a href="http://en.wikipedia.org/wiki/Suez_Canal" target="_blank">Suez Canal</a> was built in 1869 to connect the Mediterranean Sea and the Red Sea. This waterway is important for trading in the Middle East. Evidence suggests that the Ancient Egyptians might have begun work on digging the canal as early as 1897 BCE.</p><img src="http://eck208.com/google-earth/ancient-egypt/Bainbridge_in_Suez.jpg">]]></description>
+		<LookAt>
+			<longitude>32.253895</longitude>
+			<latitude>31.075678</latitude>
+			<altitude>0</altitude>
+			<heading>-1.117591</heading>
+			<tilt>0</tilt>
+			<range>67356.664062</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#style1</styleUrl>
+		<Point>
+			<coordinates>32.31118,31.021341,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>The Faiyum Oasis</name>
+		<description><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Faiyum_Oasis" target="_blank">Read Wikipedia article</a></p></p><p></p></p>]]></description>
+		<LookAt>
+			<longitude>30.71482965072392</longitude>
+			<latitude>29.28283508645751</latitude>
+			<altitude>0</altitude>
+			<heading>-0.06002593475459294</heading>
+			<tilt>0</tilt>
+			<range>103955.4610108495</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#style20</styleUrl>
+		<Point>
+			<coordinates>30.83725,29.339087,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
